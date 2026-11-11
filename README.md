@@ -73,8 +73,8 @@ done
 The extracted images are under `triplets/CAFCA/`. Paths in `manifest.json`,
 `manifest_identity_disjoint.json`, and `index.jsonl` are relative to this package
 folder. Training and refinement code are available in
-[edgar-code](https://github.com/kwanyun/edgar-code); the combined-data checkpoint
-currently remains private.
+[edgar-code](https://github.com/kwanyun/edgar-code). The combined-data
+[exp6 checkpoint](https://github.com/kwanyun/edgar-checkpoint/releases/tag/v1.0) is also public.
 
 ## Training splits
 
